@@ -1,8 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#  BlogApp Assignment
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Web Development:** Utilizing React  .
+- **Tailwind CSS Styling:** Crafting a visually appealing and responsive design with Tailwind CSS.
+design.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/shibv/Assignment.git
+
+## Install Dependencies:
+
+- npm install 
+- npm install axios , react-icons, react-router-dom
+
+## Run the Development Server:
+
+npm run dev
+
+
